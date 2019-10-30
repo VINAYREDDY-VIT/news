@@ -11,4 +11,5 @@ How to run NewsPortal Project
 
 credential for admin panel :
 username / email : admin 
+
 Password : Test @12345
