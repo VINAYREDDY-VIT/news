@@ -10,6 +10,13 @@ How to run NewsPortal Project
 7. For admin panel  http://localhost/newsporta/admin
 
 credential for admin panel :
-username / email : admin 
+username / email : Admin / shravan@gmail.com
 
 Password : Test @12345
+
+
+credential for user panel :
+email : reddyv399@gmail.com
+
+Password : Krishna@123
+
