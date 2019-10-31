@@ -1,4 +1,6 @@
 # news
+
+This is the updated code which was taken from PHP gurukul and the the made simpler for any user to register and login.
 How to run NewsPortal Project
 
 1. Download the the zip file
