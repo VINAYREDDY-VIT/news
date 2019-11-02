@@ -9,7 +9,7 @@ How to run NewsPortal Project
 4. Create a database with name newsportal
 5. Import newsportal.sql file(given inside the zip package in sql file folder)
 6.run the script http://localhost/newsportal (frontend)
-7. For admin panel  http://localhost/newsporta/admin
+7. For admin panel  http://localhost/newsportal/admin
 
 credential for admin panel :
 username / email : Admin / shravan@gmail.com
